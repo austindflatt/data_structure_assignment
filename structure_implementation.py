@@ -2,7 +2,8 @@
 months = ('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November',
           'December')
 
-print(months[2])
+def print_month():
+    print('Pi day is in:', months[2])
 
 birthday_locations = ['home', 'miami', 'california', 'atlanta', 'nashville']
 
