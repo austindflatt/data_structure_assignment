@@ -7,7 +7,7 @@ sweepstakes_contestants = {
     2: 'Ella Anderson',
     3: 'Hali Flatt',
     4: 'Tre Tardy',
-    5: 'Aaron'
+    5: 'Aaron Kisselbaugh'
 }
 
 

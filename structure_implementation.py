@@ -12,6 +12,6 @@ print(birthday_locations)
 
 i = 0
 
-while i < len(birthday_locations)
+while i < len(birthday_locations):
     print(birthday_locations[i])
     i += 1
