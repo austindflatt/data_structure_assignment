@@ -19,5 +19,5 @@ while i < len(birthday_locations):
     i += 1
 
 
-def birthday_locations():
+def print_list():
     print(birthday_locations[i])
